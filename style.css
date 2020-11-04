@@ -45,8 +45,8 @@ ul, ol {
   border-radius: 5px;
 }
 
-.btn-blue{
-  background: #14274e;
+.btn-red{
+  background: #FD1015;
     color: white;
     padding: 10px 20px;
     border-radius: 5px;
@@ -75,10 +75,6 @@ ul, ol {
 /*  height: 100px;
 *//*  object-fit: cover;
 */  border-radius: 50px;
-}
-
-.food-list{
-
 }
 
 .column {
